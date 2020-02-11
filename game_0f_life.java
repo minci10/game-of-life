@@ -12,10 +12,6 @@ import java.awt.event.MouseListener;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author MINCI
- */
 public class game_0f_life extends Applet implements KeyListener {
 
     int r = 20;
